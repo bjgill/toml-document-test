@@ -1,0 +1,7 @@
+[package]
+authors = ["Benjamin Gill <git@bgill.eu>"]
+name = "toml-doc-test"
+version = "0.1.0"
+
+[dependencies]
+toml_document = "0.1.3"
